@@ -87,7 +87,7 @@ void HUDLayer::initUI() {
     });
     addChild(_pauseBtn,100);
     
-    _moneyBg = Sprite::createWithSpriteFrameName(UI_GOLD_LABEL);
+    _moneyBg = Sprite::create(UI_GOLD_LABEL);
     _moneyBg->setPosition(Vec2(_visibleSize.width*0.18,_visibleSize.height*0.95));
     this->addChild(_moneyBg,100);
     

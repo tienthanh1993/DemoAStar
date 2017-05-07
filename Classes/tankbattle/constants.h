@@ -149,7 +149,7 @@ const int gDir2[8][2] = {
 #define UI_LOADING "res/ui/loading.png"
 #define UI_LEVEL_TIME "res/ui/stageTime.png"
 #define UI_TANK_LEFT "res/ui/leftTank.png"
-#define UI_GOLD_LABEL "shop/label_gold.png"
+#define UI_GOLD_LABEL "res/shop/label_gold.png"
 
 
 #define MENU_PLAY "button/play.png"
@@ -265,64 +265,18 @@ const int gDir2[8][2] = {
 
 float getAngleOfTwoVectors(cocos2d::Point vec1, cocos2d::Point vec2);
 
-#define TOTAL_RESOUCE 17 + 6
+#define TOTAL_RESOUCE 11
 const char gResources[TOTAL_RESOUCE][255]= {
     "res/control/control",
     "res/ui/button",
-    "res/ui/shop/shop",
     "res/ui/level",
     "res/animation/boom",
     "res/animation/fireeffect",
     "res/animation/enemytankboom",
     "res/animation/bossboom",
-    "res/animation/planeboom",
     "res/animation/playerAppear",
     "res/animation/enemyAppear",
-    "res/animation/roadblock",
-    "res/animation/portal",
-    "res/animation/propefect",
-    "res/animation/flag",
-    "res/animation/jetone",
-    "res/animation/jettwo",
-    
-    "res/ui/chapter_1", //png only
-    "res/ui/chapter_2",
-    "res/ui/chapter_3",
-    "res/ui/chapter_4",
-    "res/ui/chapter_5",
+    "res/ui/chapter_1",
     "res/ui/cloud_1"
-    
-    
-    
-//    "res/sound/music_level_a.mp3",
-//    "res/sound/music_level_b.mp3",
-//    "res/sound/music_level_boss.mp3",
-//    "res/sound/music_theme.mp3",
-//    "res/sound/sfx_buy.mp3",
-//    "res/sound/sfx_click.mp3",
-//    "res/sound/sfx_defeat.mp3",
-//    "res/sound/sfx_explosion.mp3",
-//    "res/sound/sfx_explosionboss.mp3",
-//    "res/sound/sfx_explosiontank.mp3",
-//    "res/sound/sfx_fire1.mp3",
-//    "res/sound/sfx_fire2.mp3",
-//    "res/sound/sfx_fire3.mp3",
-//    "res/sound/sfx_fire4.mp3",
-//    "res/sound/sfx_plasma.mp3",
-//    "res/sound/sfx_sonic.mp3",
-//    "res/sound/sfx_victory.mp3",
-//    "res/sound/sfx_walk.mp3"
-    
-//    "res/data/tank_boss.plist",
-//    "res/data/tank_enemy.plist",
-//    "res/data/map.plist",
-//    "res/data/chapterlist.plist",
-//    "res/data/levelLocation.plist",
-//    "res/data/equipment.plist",
-//    "res/data/bullet.plist",
-//    "res/data/mission.plist",
-//    "res/data/mission_main.plist",
-//    "res/data/mission_additional.plist",
-
 };
 #endif /* constants_h */

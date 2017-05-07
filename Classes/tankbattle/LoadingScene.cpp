@@ -83,15 +83,8 @@ void LoadingScene::onResourcesLoaded(Texture2D* texture) {
         AnimationHelper::addAnimation("boom",BOOM,"",11);
         AnimationHelper::addAnimation("enemytankboom",ENEMY_BOOM,"kp",10);
         AnimationHelper::addAnimation("bossboom",BOSS_BOOM,"bossboom",6);
-        AnimationHelper::addAnimation("planeboom",PLANE_BOOM,"boomplane",11);
         AnimationHelper::addAnimation("playerAppear",PLAYER_APPEAR,"playerAppear",11);
         AnimationHelper::addAnimation("enemyAppear",ENEMY_APPEAR,"enemyAppear",11);
-        AnimationHelper::addAnimation("jetone",JETONE,"jet",3);
-        AnimationHelper::addAnimation("jettwo",JETTWO,"jettwo",2);
-        AnimationHelper::addAnimation("roadblock",ROADBLOCK,"roadblock",9);
-        AnimationHelper::addAnimation("flag",FLAG,"flag",3);
-        AnimationHelper::addAnimation("portal",PORTAL,"portal",9);
-        AnimationHelper::addAnimation("prop",PROP_EFFECT,"propefect",17);
         GameManager::getInstance();
     }
     
