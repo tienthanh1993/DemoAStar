@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>location1</key>
+		<string>{188,427}</string>
+		<key>location10</key>
+		<string>{980,142}</string>
+		<key>location2</key>
+		<string>{262,305}</string>
+		<key>location3</key>
+		<string>{424,302}</string>
+		<key>location4</key>
+		<string>{560,390}</string>
+		<key>location5</key>
+		<string>{668,501}</string>
+		<key>location6</key>
+		<string>{807,578}</string>
+		<key>location7</key>
+		<string>{917,456}</string>
+		<key>location8</key>
+		<string>{831,315}</string>
+		<key>location9</key>
+		<string>{775,136}</string>
+	</dict>
+</array>
+</plist>

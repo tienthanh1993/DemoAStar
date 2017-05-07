@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>menubg</key>
+		<string>shop/menu_canon.png</string>
+		<key>EquipDescription1</key>
+        <string>Equipment Description: Damage +15</string>
+		<key>EquipDescription2</key>
+		<string>Equipment Description: Damage +18</string>
+		<key>EquipDescription3</key>
+		<string>Equipment Description: Damage +20</string>
+		<key>EquipDescription4</key>
+		<string>Equipment Description: Damage +24</string>
+		<key>EquipDescription5</key>
+		<string>Equipment Description: Damage +28</string>
+		<key>EquipDescription6</key>
+		<string>Congratulate! You have reached the highest of this equipment! The new level will come soon!</string>
+		<key>addAttack1</key>
+		<integer>15</integer>
+		<key>addAttack2</key>
+		<integer>18</integer>
+		<key>addAttack3</key>
+		<integer>20</integer>
+		<key>addAttack4</key>
+		<integer>24</integer>
+		<key>addAttack5</key>
+		<integer>28</integer>
+		<key>addAttack6</key>
+		<integer>0</integer>
+		<key>level1</key>
+		<string>shop/canon1.png</string>
+		<key>level2</key>
+		<string>shop/canon2.png</string>
+		<key>level3</key>
+		<string>shop/canon3.png</string>
+		<key>level4</key>
+		<string>shop/canon4.png</string>
+		<key>level5</key>
+		<string>shop/canon5.png</string>
+		<key>level6</key>
+		<string>shop/canon5.png</string>
+		<key>price1</key>
+		<integer>200</integer>
+		<key>price2</key>
+		<integer>500</integer>
+		<key>price3</key>
+		<integer>1000</integer>
+		<key>price4</key>
+		<integer>1800</integer>
+		<key>price5</key>
+		<real>2600</real>
+		<key>price6</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>menubg</key>
+		<string>shop/menu_armor.png</string>
+		<key>EquipDescription1</key>
+		<string>Equipment Description: Armor +12</string>
+		<key>EquipDescription2</key>
+		<string>Equipment Description: Armor +15</string>
+		<key>EquipDescription3</key>
+		<string>Equipment Description: Armor +18</string>
+		<key>EquipDescription4</key>
+		<string>Equipment Description: Armor +20</string>
+		<key>EquipDescription5</key>
+		<string>Equipment Description: Armor +24</string>
+		<key>EquipDescription6</key>
+		<string>Congratulate! You have reached the highest of this equipment! The new level will come soon!</string>
+		<key>addDefence1</key>
+		<integer>12</integer>
+		<key>addDefence2</key>
+		<integer>15</integer>
+		<key>addDefence3</key>
+		<integer>18</integer>
+		<key>addDefence4</key>
+		<integer>20</integer>
+		<key>addDefence5</key>
+		<integer>24</integer>
+		<key>addDefence6</key>
+		<string>0</string>
+		<key>level1</key>
+		<string>shop/armor1.png</string>
+		<key>level2</key>
+		<string>shop/armor2.png</string>
+		<key>level3</key>
+		<string>shop/armor3.png</string>
+		<key>level4</key>
+		<string>shop/armor4.png</string>
+		<key>level5</key>
+		<string>shop/armor5.png</string>
+		<key>level6</key>
+		<string>shop/armor5.png</string>
+		<key>price1</key>
+		<integer>200</integer>
+		<key>price2</key>
+		<integer>500</integer>
+		<key>price3</key>
+		<integer>1000</integer>
+		<key>price4</key>
+		<integer>1800</integer>
+		<key>price5</key>
+		<integer>2600</integer>
+		<key>price6</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>menubg</key>
+		<string>shop/menu_trackwheel.png</string>
+		<key>EquipDescription1</key>
+		<string>Equipment Description: Speed +1</string>
+		<key>EquipDescription2</key>
+		<string>Equipment Description: Speed +1</string>
+		<key>EquipDescription3</key>
+		<string>Equipment Description: Speed +1</string>
+		<key>EquipDescription4</key>
+		<string>Equipment Description: Speed +1</string>
+		<key>EquipDescription5</key>
+		<string>Equipment Description: Speed +1</string>
+		<key>EquipDescription6</key>
+		<string>Congratulate! You have reached the highest of this equipment! The new level will come soon!</string>
+		<key>addSpeed1</key>
+		<string>0.5</string>
+		<key>addSpeed2</key>
+		<string>0.5</string>
+		<key>addSpeed3</key>
+		<string>0.5</string>
+		<key>addSpeed4</key>
+		<string>0.5</string>
+		<key>addSpeed5</key>
+		<string>0.5</string>
+		<key>addSpeed6</key>
+		<string>0</string>
+		<key>level1</key>
+		<string>shop/trackwheel1.png</string>
+		<key>level2</key>
+		<string>shop/trackwheel2.png</string>
+		<key>level3</key>
+		<string>shop/trackwheel3.png</string>
+		<key>level4</key>
+		<string>shop/trackwheel4.png</string>
+		<key>level5</key>
+		<string>shop/trackwheel5.png</string>
+		<key>level6</key>
+		<string>shop/trackwheel5.png</string>
+		<key>price1</key>
+		<integer>200</integer>
+		<key>price2</key>
+		<integer>500</integer>
+		<key>price3</key>
+		<integer>1000</integer>
+		<key>price4</key>
+		<integer>1800</integer>
+		<key>price5</key>
+		<integer>2600</integer>
+		<key>price6</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>menubg</key>
+		<string>shop/menu_chip.png</string>
+		<key>EquipDescription1</key>
+		<string>Equipment Description: HP +30</string>
+		<key>EquipDescription2</key>
+		<string>Equipment Description: HP +35</string>
+		<key>EquipDescription3</key>
+		<string>Equipment Description: HP +40</string>
+		<key>EquipDescription4</key>
+		<string>Equipment Description: HP +45</string>
+		<key>EquipDescription5</key>
+		<string>Equipment Description: HP +50</string>
+		<key>EquipDescription6</key>
+		<string>Congratulate! You have reached the highest of this equipment! The new level will come soon!</string>
+		<key>addHp1</key>
+		<integer>30</integer>
+		<key>addHp2</key>
+		<integer>35</integer>
+		<key>addHp3</key>
+		<integer>40</integer>
+		<key>addHp4</key>
+		<integer>45</integer>
+		<key>addHp5</key>
+		<integer>50</integer>
+		<key>addHp6</key>
+		<integer>0</integer>
+		<key>level1</key>
+		<string>shop/chip1.png</string>
+		<key>level2</key>
+		<string>shop/chip2.png</string>
+		<key>level3</key>
+		<string>shop/chip3.png</string>
+		<key>level4</key>
+		<string>shop/chip4.png</string>
+		<key>level5</key>
+		<string>shop/chip5.png</string>
+		<key>level6</key>
+		<string>shop/chip5.png</string>
+		<key>price1</key>
+		<integer>200</integer>
+		<key>price2</key>
+		<integer>500</integer>
+		<key>price3</key>
+		<integer>1000</integer>
+		<key>price4</key>
+		<integer>1800</integer>
+		<key>price5</key>
+		<integer>2600</integer>
+		<key>price6</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
